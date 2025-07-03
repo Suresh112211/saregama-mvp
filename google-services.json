@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "192756720384",
+    "project_id": "saregama-mvp",
+    "storage_bucket": "saregama-mvp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192756720384:android:6668cbe24b50351cc209e5",
+        "android_client_info": {
+          "package_name": "com.saregama.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA46Ws7fjuOfm6VFCY6h6DjF0Bc_0ez3To"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
